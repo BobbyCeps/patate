@@ -1,7 +1,29 @@
 header {
-  text-align: center;
+  border: solid 2px black;
+  height: 75px;
 }
 
+.border
+{
+  border: solid 2px black;
+  height: 150px;
+}
+.pied
+{
+  background-color: black;
+  color: white;
+  width: 10px;
+  margin-top: -30px;
+}
+.prix
+{
+  background-color: white;
+  color: black;
+}
+.carousel-inner
+{
+  height: 275px;
+}
 /** ARTICLES **/
 .articles{
   text-align: center;
