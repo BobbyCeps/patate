@@ -1,16 +1,13 @@
 header {
-  border: solid 2px black;
   height: 75px;
-}
 
-.border
-{
-  border: solid 2px black;
-  height: 150px;
+}
+.btn {
+  margin-left: 15px;
 }
 .pied
 {
-  background-color: pink;
+  background-color: white;
   color: white;
   width: 10px;
   margin-top: -30px;
@@ -26,6 +23,7 @@ header {
 }
 /** ARTICLES **/
 .articles{
+  margin-top: 5px;
   text-align: center;
 }
 
